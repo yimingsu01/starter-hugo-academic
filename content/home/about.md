@@ -7,4 +7,3 @@ active: true
 author: admin
 widget_id: about
 ---
-\### about
