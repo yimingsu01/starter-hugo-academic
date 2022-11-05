@@ -31,4 +31,6 @@ title: Experience
 subtitle: null
 design:
   columns: "2"
+  background:
+    color: "#343a40"
 ---
