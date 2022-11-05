@@ -51,5 +51,7 @@ experience:
         * Led and organized 10 grading assignments and provided detailed feedback to 8 graders.
 
 design:
-  columns: '2'
+  columns: "2"
+  background:
+    color: "#343a40"
 ---
