@@ -22,28 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Undergraduate Machine Learning Researcher
+    company: Microsoft Partner Group
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: microsoft
+    location: Chicago
+    date_start: '2022-03-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        My Project include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Proposed a novel method to discover and analyze API violations by using Large Language Model
+        * Led more than 20 experiments investigating the impact of prompts sentences on the accuracy of Codex output
+        * Achieved 90% of validation accuracy on the result of Codex by fine-tuning input prompts and customized post-processing pipeline
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Undergraduate Teaching Assistant
+    company: University of Chicago
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: uchicago
+    location: Chicago
+    date_start: '2022-01-01'
+    date_end: ''
+    description: |2-
+        My work include:
+        
+        * Conducted weekly office hours for more than 10 students per week to clarify fundamental programming concepts such as Linked List
+        * Analyzed 500 lines of students' codes per week with respect to quality and efficiency
+        * Led and organized 10 grading assignments and provided detailed feedback to 8 graders.
 
 design:
   columns: '2'
