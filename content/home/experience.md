@@ -39,7 +39,7 @@ experience:
   - title: Undergraduate Teaching Assistant
     company: University of Chicago
     company_url: ''
-    company_logo: uchicago-cs
+    company_logo: uchicago
     location: Chicago
     date_start: '2022-01-01'
     date_end: ''
