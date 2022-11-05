@@ -73,7 +73,7 @@ experience:
 
   ```
 * title: 'Professor'
-  company: 'University X'
+  company: 'University XXXXX'
   company_url: ''
   company_logo: my-logo  # Optional logo
   location: 'California'
