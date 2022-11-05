@@ -7,27 +7,21 @@ interests:
   - Software Analysis
   - and Computer Vision
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/yimingsu01
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/yimingsu01
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yimingsu/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Chicago
+    url: https://www.uchicago.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
