@@ -5,7 +5,7 @@ bio: My research interests include machine learning, software analysis, and
 interests:
   - Machine Learning
   - Software Analysis
-  - and Computer Vision
+  - Computer Vision
 social:
   - icon: twitter
     icon_pack: fab
