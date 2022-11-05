@@ -51,4 +51,4 @@ Yiming Su is an undergraduate researcher at the University of Chicago. His resea
 
 In the little free time he has, he leads the UChicago CS:GO Varsity team and competes in the NACE Collegiate league. He also owns a used bike that he rides from, time to time, to the Lake Michigan and enjoys some natural anti-depressant.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}
