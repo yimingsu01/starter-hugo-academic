@@ -24,15 +24,9 @@ organizations:
     url: https://www.uchicago.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor Degree (In Progress)
+      institution: University of Chicago
+      year: 2022
 superuser: true
 last_name: Bighetti
 role: Undergraduate @ University of Chicago
