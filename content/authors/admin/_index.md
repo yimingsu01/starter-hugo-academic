@@ -1,11 +1,11 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include machine learning, software analysis, and
+  computer vision
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Software Analysis
+  - and Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
@@ -47,9 +47,8 @@ title: Yiming Su 苏亦鸣
 first_name: Alice
 email: ""
 ---
+Yiming Su is an undergraduate researcher at the University of Chicago. His research interests include software analysis using machine learning and computer vision. He is currently an undergraduate researcher in Prof. Shan Lu's group. He is also a computer vision researcher in [the MiiE lab](https://www.miielab.com/) and Prof. Michael Maire's group.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In the little free time he has, he leads the UChicago CS:GO Varsity team and competes in the NACE Collegiate league. He also owns a used bike that he rides from, time to time, to the Lake Michigan and enjoys some natural anti-depressant.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
