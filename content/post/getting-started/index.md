@@ -17,6 +17,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: featured.jpg
 ---
 # A Checklist For My Summer
 
