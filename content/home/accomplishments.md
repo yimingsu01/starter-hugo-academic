@@ -23,30 +23,25 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+  - date_end: ''
+    date_start: '2022-03-01'
     description: ''
-    organization: Coursera
+    organization: University of Chicago
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    title: 'University of Chicago Metcalf Grants'
+    url: 'https://careeradvancement.uchicago.edu/student-opportunities/college-sponsored-grants'
+  - date_end: ''
+    date_start: '2021-09-01'
+    organization: University of Chicago
+    organization_url: https://www.uchicago.edu
+    title: 'Dean’s List, 2021-2022'
+  - date_end: ''
+    date_start: '2020-09-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: University of Chicago
+    organization_url: https://www.uchicago.edu
+    title: 'University of Chicago Odyssey Scholarship'
+    url: 'https://collegeadmissions.uchicago.edu/financial-support/scholarships/odyssey-scholarships'
 
 design:
   columns: '2'
